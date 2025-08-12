@@ -1,7 +1,7 @@
 {
-  "name": "Matteo's Declic - Oracle Mystique",
-  "short_name": "Matteo's Declic",
-  "description": "Oracle mystique quotidien. Lion ascendant Connasse, ton aura trouble les dieux.",
+  "name": "Ultra Bloody Dark Charlotte Oracle",
+  "short_name": "Dark Oracle",
+  "description": "C'est pas un oracle de pd.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#000000",
@@ -106,7 +106,7 @@
     {
       "name": "Mystique",
       "short_name": "Mystique",
-      "description": "Plonge dans l'univers mystique de Matteo",
+      "description": "Plonge dans l'univers mystique",
       "url": "./?shortcut=mystique",
       "icons": [
         {
